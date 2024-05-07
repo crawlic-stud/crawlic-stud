@@ -8,9 +8,9 @@ I'm Nikita. I'm a Python Backend 🐍 developer. You can look at my cool project
 -->
 
 <img href="https://codetime.dev" alt="Custom badge" src="https://img.shields.io/endpoint?style=flat&url=https%3A%2F%2Fapi.codetime.dev%2Fshield%3Fid%3D23821%26project%3D%26in%3D0">
-
+<!--
 <img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWxqenRpbHI1dGEyNWZ6NTNnMzh3cjhkZjBoMXlkdWd3YzZqeGkxdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26u6dSXlubrUDjWx2/giphy.gif" alt="gif" width="480" style="border-radius: 5px">
-
+-->
 ### Current stack:
 <img align="up" src="https://skillicons.dev/icons?i=python,fastapi,postgres,mongodb,redis"/><br>
 
