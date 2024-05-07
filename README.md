@@ -11,6 +11,7 @@ I'm Nikita. I'm a Python Backend 🐍 developer. You can look at my cool project
 <!--
 <img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWxqenRpbHI1dGEyNWZ6NTNnMzh3cjhkZjBoMXlkdWd3YzZqeGkxdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26u6dSXlubrUDjWx2/giphy.gif" alt="gif" width="480" style="border-radius: 5px">
 -->
+
 ### Current stack:
 <img align="up" src="https://skillicons.dev/icons?i=python,fastapi,postgres,mongodb,redis"/><br>
 
