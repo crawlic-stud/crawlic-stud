@@ -15,11 +15,11 @@ I'm Nikita. I'm a Python Backend 🐍 developer. You can look at my cool project
 -->
 
 ### Current stack:
-<img align="up" src="https://skillicons.dev/icons?i=python,fastapi,postgres,mongodb,redis"/><br>
+<img align="up" src="https://skillicons.dev/icons?i=python,fastapi,postgres,mongodb,redis,kafka,s3"/><br>
 
 ### Have knowledge in:
 
-<img align="up" src="https://skillicons.dev/icons?i=javascript,html,css,cpp,cs,bash,nginx,docker"/><br>
+<img align="up" src="https://skillicons.dev/icons?i=javascript,html,css,flask,django,cpp,cs,bash,nginx,docker,linux"/><br>
 
 ### Currently learning:
 
