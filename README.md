@@ -23,9 +23,9 @@ I'm Nikita. I'm a Python Backend 🐍 developer. You can look at my cool project
 
 ### Currently learning:
 
-<img align="up" src="https://skillicons.dev/icons?i=rust"/><br>
+<img align="up" src="https://skillicons.dev/icons?i=rust,go"/><br>
 
 ### Interested in the future:
 
-<img align="up" src="https://skillicons.dev/icons?i=react,go,htmx,vim"/><br>
+<img align="up" src="https://skillicons.dev/icons?i=react,htmx,vim"/><br>
 
