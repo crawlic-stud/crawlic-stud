@@ -1,3 +1,5 @@
+![github-header-image](https://github.com/user-attachments/assets/d70bdd21-d10b-4d79-808a-fa92d4966e7a)
+
 # Hi! 🤗
 
 I'm Nikita. I'm a Python Backend 🐍 developer. You can look at my cool projects now.
