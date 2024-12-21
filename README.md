@@ -29,3 +29,4 @@ I'm Nikita. I'm a Python Backend 🐍 developer. You can look at my cool project
 
 <img align="up" src="https://skillicons.dev/icons?i=react,htmx,vim"/><br>
 
+![stats](./activity2022-2024.webp)
